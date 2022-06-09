@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "utility": "cpp",
+        "sstream": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "thread": "cpp"
+    }
+}
